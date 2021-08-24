@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @roni712
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning Big Data Solution Arch.
 - 💞️ looking to collaborate on, [E-mail](mailto).
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ronak-patel07/ "Ronak's Linkedin Profile")
 
@@ -14,5 +14,4 @@
 <img align="left" height="50px" width="60px" src="https://air-marketing-assets.s3.amazonaws.com/blog/logo-db/r-logo/r-logo-svg-4.svg"/>
 <img align="left" height="50px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGJfhoobdlWYjMSvqBHoONjoCgpkgiGJae_MPXCissDceBK22QL5XG3GXYaNFVdNRGZo&usqp=CAU"/>
 <img align="left" alt="HTML5" height="50px" width="60px" src="https://g.foolcdn.com/art/companylogos/square/data.png"/>
-
 
