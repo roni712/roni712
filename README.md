@@ -1,6 +1,6 @@
 <img src="https://github.com/roni712/gif/blob/fca4251fbb4591102d6a89e893e1b62741535e6c/developer-dribbble.gif" width="1000" height="450" />
 
-- 👋 Hi, I’m @roni712
+- 👋 Hi, I’m Ronak Patel
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Big Data Solution Arch.
 - 💞️ looking to collaborate on, [E-mail](mailto).
