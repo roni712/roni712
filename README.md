@@ -7,7 +7,7 @@
 
 ## Tool and Technologies
 <img align="left" height="50px" width="60px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" />
-<img align="left" height="50px" width="60px" src="[https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/45e29c88-de12-4ef2-b77f-0bbf39e0e8bc.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8KLrz1OYfFRDTNayIdRwdanvCy0_Jk8ajg&s)" />
+<img align="left" height="50px" width="60px" src="https://datasolut.com/wp-content/uploads/2019/11/Apache_Spark_logo.svg.png" />
 <img align="left" height="50px" width="60px" src="https://www.sqlsplus.com/wp-content/uploads/2020/09/NoSQL.jpg"/>
 <img align="left" height="50px" width="60px" src="https://images-eu.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"/>
 <img align="left" height="50px" width="60px" src="https://air-marketing-assets.s3.amazonaws.com/blog/logo-db/r-logo/r-logo-svg-4.svg"/>
