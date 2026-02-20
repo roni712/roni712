@@ -6,7 +6,7 @@
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ronak-patel07/ "Ronak's Linkedin Profile")
 
 ## Tool and Technologies
-<img align="left" height="50px" width="60px" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png" />
+<img align="left" height="50px" width="60px" src="https://ds6yc8t7pnx74.cloudfront.net/content/dam/appstore/visual_update_2024/l0/L0_logo_aws_250x250.png" />
 <img align="left" height="50px" width="60px" src="https://datasolut.com/wp-content/uploads/2019/11/Apache_Spark_logo.svg.png" />
 <img align="left" height="50px" width="60px" src="https://www.sqlsplus.com/wp-content/uploads/2020/09/NoSQL.jpg"/>
 <img align="left" height="50px" width="60px" src="https://images-eu.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"/>
