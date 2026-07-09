@@ -1,16 +1,12 @@
-<img src="https://github.com/roni712/gif/blob/fca4251fbb4591102d6a89e893e1b62741535e6c/developer-dribbble.gif" width="1000" height="450" />
+# Ronak Patel — Java Full Stack Developer
 
-- 👋 Hi, I’m Ronak Patel
-- 👀 I’m interested in Data Science 
-- 💞️ looking to collaborate on, [E-mail](mailto).
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ronak-patel07/ "Ronak's Linkedin Profile")
+Full stack developer with 6+ years building Java/Spring Boot microservices 
+and cloud-native applications. Currently at Rogers Communications, 
+working with Spring Boot, Kafka, AWS, and Kubernetes.
 
-## Tool and Technologies
-<img align="left" height="50px" width="60px" src="https://ds6yc8t7pnx74.cloudfront.net/content/dam/appstore/visual_update_2024/l0/L0_logo_aws_250x250.png" />
-<img align="left" height="50px" width="60px" src="https://datasolut.com/wp-content/uploads/2019/11/Apache_Spark_logo.svg.png" />
-<img align="left" height="50px" width="60px" src="https://www.sqlsplus.com/wp-content/uploads/2020/09/NoSQL.jpg"/>
-<img align="left" height="50px" width="60px" src="https://images-eu.ssl-images-amazon.com/images/I/41eVkHJhdRL.png"/>
-<img align="left" height="50px" width="60px" src="https://air-marketing-assets.s3.amazonaws.com/blog/logo-db/r-logo/r-logo-svg-4.svg"/>
-<img align="left" height="50px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGJfhoobdlWYjMSvqBHoONjoCgpkgiGJae_MPXCissDceBK22QL5XG3GXYaNFVdNRGZo&usqp=CAU"/>
-<img align="left" alt="HTML5" height="50px" width="60px" src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png"/>
+📍 Nova Scotia, Canada
+🔗 [LinkedIn](www.linkedin.com/in/ronak-patel-l0712) · [Resume](link) · 07.ronak.patel@gmail.com
 
+## Core Stack
+Java · Spring Boot · Kafka · AWS (EC2, Lambda, RDS) · Docker · Kubernetes · 
+PostgreSQL · MongoDB · Angular
